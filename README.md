@@ -22,4 +22,4 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/0" alt="Recent Article 1">
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/1" alt="Recent Article 2">
