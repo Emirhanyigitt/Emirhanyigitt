@@ -17,8 +17,3 @@
 [![python_example](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=python_example&show_owner=true)](https://github.com/Emirhanyigitt/python_example)
 
 [![cancelled_project](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=cancelled_project&show_owner=true)](https://github.com/Emirhanyigitt/cancelled_project)
-
-## Medium Articles
-
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Emirhanyigitt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Emirhanyigitt/0" alt="Recent Article 1">
-
