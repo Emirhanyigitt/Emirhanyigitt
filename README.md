@@ -11,3 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhanyigitt&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![python_example](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=python_example&show_owner=true)](https://github.com/Emirhanyigitt/python_example)
+[![python_example](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=python_example&show_owner=true)](https://github.com/Emirhanyigitt/python_example)
