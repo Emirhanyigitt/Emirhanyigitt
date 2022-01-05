@@ -10,4 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhanyigitt&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Repos](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
+[![My Repos](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=&show_owner=true)](https://github.com/yourusername/repo-name)
