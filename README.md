@@ -10,7 +10,7 @@
  ## My Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Emirhanyigitt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhanyigitt&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhanyigitt&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Repos
 
@@ -26,4 +26,6 @@
 
 ## Medium Articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/0" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/0" alt="Recent Article 0">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/1" alt="Recent Article 1">
