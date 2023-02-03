@@ -24,7 +24,6 @@
 
 [![shinokada](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=shinokada&show_owner=true)](https://github.com/Emirhanyigitt/shinokada)
 
-
 ## Medium Articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@emirxxhan/0" alt="Recent Article 1">
