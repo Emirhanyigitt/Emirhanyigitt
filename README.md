@@ -16,6 +16,8 @@
 
 [![Market-Otomasyonu-Proje](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=Market-Otomasyonu-Proje&show_owner=true)](https://github.com/Emirhanyigitt/Market-Otomasyonu-Proje)
 
+[![Blog-Sitesi](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=Blog-Sitesi&show_owner=true)](https://github.com/Emirhanyigitt/Blog-Sitesi)
+
 [![python_example](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=python_example&show_owner=true)](https://github.com/Emirhanyigitt/python_example)
 
 [![cancelled_project](https://github-readme-stats.vercel.app/api/pin/?username=Emirhanyigitt&repo=cancelled_project&show_owner=true)](https://github.com/Emirhanyigitt/cancelled_project)
